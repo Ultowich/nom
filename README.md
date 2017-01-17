@@ -17,7 +17,7 @@ You will need:
 ### macOS and Linux
 nom can be installed by running one of the following commands in your terminal.
 
-**via curl** (recommended)
+**via curl** (recommendded)
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/nanalan/nom/master/install.sh)"
 ```
@@ -49,3 +49,32 @@ npm install -g nomlang
 ```sh
 nom --help
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Nanalan is ***bad*** at coding
